@@ -1,7 +1,9 @@
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9E4AA&height=250&section=header&text=Seongho%20Choi&&fontColor=484848&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=60&descAlign=67)
-
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghoho%2Fhit-counter&count_bg=%238EB8FF&title_bg=%23218AF1&icon=ghostery.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+  
 </div>
 
 <h3 align="center">🎇 Algorithm 🎇</h3>
@@ -11,7 +13,10 @@
 
 </div>
 
- <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+ <h3 align="center">👩‍💻 My Github Stats 👩‍💻  </h3>
+ 
+ 
+ 
 <div align="center">
  
 ![seonghoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoho&show_icons=true&theme=vue)
