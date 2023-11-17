@@ -14,8 +14,7 @@
  <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
  
- [![seonghoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoho&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+![seonghoho's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoho&show_icons=true&theme=vue)
 </div>
 
 <!-- <h3 align="center">📚 Tech Stack 📚</h3>
