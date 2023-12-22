@@ -9,7 +9,9 @@
 <h3 align="center">🎇 Algorithm 🎇</h3>
 <div align="center">
 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltjdgh3)](https://solved.ac/chltjdgh3) <img src="http://mazandi.herokuapp.com/api?handle=chltjdgh3&theme=warm"/>
+ [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltjdgh3)](https://solved.ac/chltjdgh3) 
+ 
+ <!-- <img src="http://mazandi.herokuapp.com/api?handle=chltjdgh3&theme=warm"/> -->
 
 </div>
 
