@@ -8,12 +8,13 @@
 <b> 삼성 청년 SW 아카데미 10기 수료 (2023.07 ~ 2024.06)</b>
 </div>
 
-<div>
-  <h3>Awords</h3>
-  <p> <b>2024.06</b> 삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (삼성전자) </p>
-  <p> <b>2024.04</b> 삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (삼성전자) </p>
-  <p> <b>2024.02</b> 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (삼성전자) </p>
-</div>
+### Awards
+
+[**2024.06** 삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (삼성전자)](https://github.com/seonghoho/NowDoBoss_ReadMe)
+
+[**2024.04** 삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (삼성전자)](https://github.com/seonghoho/Mancity_ReadMe)
+
+[**2024.02** 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (삼성전자)](https://github.com/seonghoho/Pawsitive_ReadMe)
 
 <div>
 <h3 >FrontEnd Stack</h3>
