@@ -9,6 +9,13 @@
 </div>
 
 <div>
+  <h3>Awords</h3>
+  <p> <b>2024.06</b> 삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (삼성전자) </p>
+  <p> <b>2024.04</b> 삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (삼성전자) </p>
+  <p> <b>2024.02</b> 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (삼성전자) </p>
+</div>
+
+<div>
 <h3 >FrontEnd Stack</h3>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
