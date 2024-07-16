@@ -42,7 +42,7 @@ JavaScript
 
 |기간|프로젝트|사용 기술|url|
 |:---:|:---:|:---:|:---:|
-|2024.04.08~2024.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|https://github.com/seonghoho/NowDoBoss|
+|2024.04.08~2024.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)|
 |2024.02.19~2024.04.05|Mancity|React, TypeScript, Zustand, React-Query, TailWind, Storybook, Vite|https://github.com/seonghoho/Mancity|
 |2024.01.03~2024.02.16|Pawsitive|React, TypeScript, Jotai, React-Query, Styled-Components, Vite|https://github.com/seonghoho/Pawsitive|
 
