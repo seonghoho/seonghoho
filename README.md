@@ -23,8 +23,6 @@ ETC: Vue.js, Python, Django, Git
 
 정보처리기사 실기 (~ 2024.07.28 시험)
 
-Next.js
-
 JavaScript
 
 
