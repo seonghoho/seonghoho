@@ -20,8 +20,7 @@ ETC: Vue.js, Python, Django, Git
 
 
 ### 🔥Currently Learning🔥
-
-정보처리기사 실기 (~ 2024.07.28 시험)
+Vue.js
 
 JavaScript
 
