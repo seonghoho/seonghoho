@@ -8,7 +8,7 @@
 
 ### 🚀Tech Stack🚀
 
-FrontEnd: React, TypeScript, StoryBook
+FrontEnd: React, TypeScript, StoryBook, Vue.js
 
 State Management: React-Query, Zustand, Jotai
 
@@ -16,7 +16,7 @@ CSS: TailWind, Styled-Components, Emotion
 
 Tools: Notion, Figma, Discord
 
-ETC: Vue.js, Python, Django, Git
+ETC: Python, Django, Git
 
 
 ### 🔥Currently Learning🔥
