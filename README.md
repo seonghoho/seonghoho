@@ -1,7 +1,7 @@
 <h2>최선을 다하는 FrontEnd 개발자 최성호 입니다.</h2>
 
 
-### ✨Experience✨
+### 🎓Experience🎓
 
 삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
 
@@ -24,7 +24,7 @@ Vue.js
 
 JavaScript
 
-
+<!--
 ### 🏅Awards🏅
 
 삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (2024.06)
@@ -32,16 +32,16 @@ JavaScript
 삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (2024.04)
 
 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (2024.02) 
-
+-->
 
 
 ### 🌱Projects🌱
 
 |기간|프로젝트|사용 기술|url|
 |:---:|:---:|:---:|:---:|
-|2024.04.08~2024.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)|
-|2024.02.19~2024.04.05|Mancity|React, TypeScript, Zustand, React-Query, TailWind, Storybook, Vite|https://github.com/seonghoho/Mancity|
-|2024.01.03~2024.02.16|Pawsitive|React, TypeScript, Jotai, React-Query, Styled-Components, Vite|https://github.com/seonghoho/Pawsitive|
+|24.04.08~24.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)|
+|24.02.19~24.04.05|Mancity|React, TypeScript, Zustand, React-Query, TailWind, Storybook, Vite|https://github.com/seonghoho/Mancity|
+|24.01.03~24.02.16|Pawsitive|React, TypeScript, Jotai, React-Query, Styled-Components, Vite|https://github.com/seonghoho/Pawsitive|
 
 
 <!-- 
