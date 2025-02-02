@@ -1,4 +1,5 @@
-<h2>최선을 다하는 FrontEnd 개발자 최성호 입니다.</h2>
+<!-- <h2>최선을 다하는 FrontEnd 개발자 최성호 입니다.</h2> -->
+<h2>최성호 - FrontEnd Developer</h2>
 
 
 ### 🎓Experience🎓
@@ -14,15 +15,18 @@ State Management: React-Query, Zustand, Jotai
 
 CSS: TailWind, Styled-Components, Emotion
 
-Tools: Notion, Figma, Discord
+Tools: Teams, Notion, Figma, Discord
 
-ETC: Python, Django, Git
+ETC: Python, Django, GitLab, Bitbucket 
 
 
 ### 🔥Currently Learning🔥
-Vue.js
 
 JavaScript
+
+Next.js
+
+SQLD
 
 <!--
 ### 🏅Awards🏅
@@ -37,12 +41,19 @@ JavaScript
 
 ### 🌱Projects🌱
 
+[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)
+
+[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
+
+[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
+
+<!--
 |기간|프로젝트|사용 기술|url|
 |:---:|:---:|:---:|:---:|
 |24.04.08~24.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)|
 |24.02.19~24.04.05|Mancity|React, TypeScript, Zustand, React-Query, TailWind, Storybook, Vite|https://github.com/seonghoho/Mancity|
 |24.01.03~24.02.16|Pawsitive|React, TypeScript, Jotai, React-Query, Styled-Components, Vite|https://github.com/seonghoho/Pawsitive|
-
+-->
 
 <!-- 
 <div>
