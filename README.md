@@ -22,11 +22,9 @@ ETC: Python, Django, GitLab, Bitbucket
 
 ### 🔥Currently Learning🔥
 
+정보처리기사
+
 JavaScript
-
-Next.js
-
-SQLD
 
 THREE.js -----> [seongho-world.vercel.app](https://seongho-world.vercel.app/)
 <!--
