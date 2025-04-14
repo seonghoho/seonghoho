@@ -25,8 +25,10 @@ ETC: Python, Django, GitLab, Bitbucket, SQLD
 정보처리기사
 
 JavaScript
+
 <!--
-THREE.js -----> [seongho-world.vercel.app](https://seongho-world.vercel.app/)
+
+THREE.js [seongho-world.vercel.app](https://seongho-world.vercel.app/)
 
 ### 🏅Awards🏅
 
@@ -35,6 +37,7 @@ THREE.js -----> [seongho-world.vercel.app](https://seongho-world.vercel.app/)
 삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (2024.04)
 
 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (2024.02) 
+
 -->
 
 
