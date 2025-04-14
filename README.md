@@ -17,7 +17,7 @@ CSS: TailWind, Styled-Components, Emotion
 
 Tools: Teams, Notion, Figma, Discord
 
-ETC: Python, Django, GitLab, Bitbucket 
+ETC: Python, Django, GitLab, Bitbucket, SQLD
 
 
 ### 🔥Currently Learning🔥
@@ -25,9 +25,9 @@ ETC: Python, Django, GitLab, Bitbucket
 정보처리기사
 
 JavaScript
-
-THREE.js -----> [seongho-world.vercel.app](https://seongho-world.vercel.app/)
 <!--
+THREE.js -----> [seongho-world.vercel.app](https://seongho-world.vercel.app/)
+
 ### 🏅Awards🏅
 
 삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (2024.06)
