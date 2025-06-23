@@ -6,25 +6,44 @@
 
 삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
 
+에듀테크 스타트업 코드넛 FrontEnd Developer (2024.08 ~)
+<br/>
+<br/>
 
 ### 🚀Tech Stack🚀
 
-FrontEnd: React, TypeScript, StoryBook, Vue.js
+FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, StoryBook
 
-State Management: React-Query, Zustand, Jotai
+State Management: React-Query, Redux-toolkit, **Zustand**, Jotai, **Pinia**
 
-CSS: TailWind, Styled-Components, Emotion
+CSS: **TailWind**, **SCSS**, Styled-Components, Emotion
 
 Tools: Teams, Notion, Figma, Discord
 
-ETC: Python, Django, GitLab, Bitbucket, SQLD
+ETC: Python, Django, GitLab, Bitbucket
 
+Qualifications: **SQLD**
+<br/>
+<br/>
 
 ### 🔥Currently Learning🔥
 
 정보처리기사
 
-JavaScript
+JavaScript -> 모던 자바스크립트 Deep Dive 
+
+Next.js 14 -> TripMarble 공모전 준비
+<br/>
+<br/>
+
+### 🌱Projects🌱
+
+[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)
+
+[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
+
+[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
+
 
 <!--
 
@@ -39,15 +58,6 @@ THREE.js [seongho-world.vercel.app](https://seongho-world.vercel.app/)
 삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (2024.02) 
 
 -->
-
-
-### 🌱Projects🌱
-
-[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)
-
-[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
-
-[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
 
 <!--
 |기간|프로젝트|사용 기술|url|
