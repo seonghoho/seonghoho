@@ -44,6 +44,9 @@ Next.js 14 -> TripMarble 공모전 준비
 
 [맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
 
+### Toy Projects
+
+[pixi.js 게임](https://pixi-game-five.vercel.app/)
 
 <!--
 
