@@ -14,7 +14,7 @@
 
 FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, StoryBook
 
-State Management: React-Query, Redux-toolkit, **Zustand**, Jotai, **Pinia**
+State Management: **React-Query**, Redux-toolkit, **Zustand**, Jotai, **Pinia**
 
 CSS: **TailWind**, **SCSS**, Styled-Components, Emotion
 
@@ -32,7 +32,7 @@ Qualifications: **SQLD**
 
 JavaScript -> 모던 자바스크립트 Deep Dive 
 
-Next.js 14 -> TripMarble 공모전 준비
+Next.js 14 -> TripMarble
 <br/>
 <br/>
 
