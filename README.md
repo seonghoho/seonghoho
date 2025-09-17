@@ -32,7 +32,7 @@ Qualifications: **SQLD**
 
 JavaScript -> 모던 자바스크립트 Deep Dive 
 
-Next.js 14 -> TripMarble
+Next.js -> TripMarble
 <br/>
 <br/>
 
