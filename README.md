@@ -1,12 +1,12 @@
-<!-- <h2>최선을 다하는 FrontEnd 개발자 최성호 입니다.</h2> -->
-<h2>최성호 - FrontEnd Developer</h2>
+<!-- <h2>최선을 다하는 Frontend 개발자 최성호 입니다.</h2> -->
+<h2>최성호 - Frontend Developer</h2>
 
 
 ### 🎓Experience🎓
 
 삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
 
-에듀테크 스타트업 코드넛 FrontEnd Developer (2024.08 ~)
+에듀테크 스타트업 코드넛 Frontend Developer (2024.08 ~)
 <br/>
 <br/>
 
