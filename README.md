@@ -6,13 +6,15 @@
 
 삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
 
-에듀테크 스타트업 코드넛 Frontend Developer (2024.08 ~)
+에듀테크 스타트업 코드넛 Frontend Developer (2024.08 ~ 2026.02)
+
+플랜티엠 Frontend Developer (2026.03 ~ )
 <br/>
 <br/>
 
 ### 🚀Tech Stack🚀
 
-FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, StoryBook
+FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, **Nuxt.js**, StoryBook
 
 State Management: **React-Query**, Redux-toolkit, **Zustand**, Jotai, **Pinia**
 
@@ -32,7 +34,8 @@ Qualifications: **SQLD**
 
 JavaScript -> 모던 자바스크립트 Deep Dive 
 
-Next.js -> TripMarble
+Nuxt.js
+
 <br/>
 <br/>
 
