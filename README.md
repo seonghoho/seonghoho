@@ -50,6 +50,7 @@ Nuxt.js
 ### Toy Projects
 
 [pixi.js 게임](https://pixi-game-five.vercel.app/)
+[브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/)
 
 <!--
 
