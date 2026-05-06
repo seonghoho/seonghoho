@@ -2,7 +2,7 @@
 <h2>최성호 - Frontend Developer</h2>
 
 
-### 🎓Experience🎓
+### Experience 🎓
 
 삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
 
@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-### 🚀Tech Stack🚀
+### Tech Stack 🚀
 
 FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, **Nuxt.js**, StoryBook
 
@@ -28,18 +28,16 @@ Qualifications: **SQLD**
 <br/>
 <br/>
 
-### 🔥Currently Learning🔥
-
-정보처리기사
-
-JavaScript -> 모던 자바스크립트 Deep Dive 
+<!--
+### Currently Learning 🔥
 
 Nuxt.js
 
 <br/>
 <br/>
+-->
 
-### 🌱Projects🌱
+### Projects 🌱
 
 [상권 추천 서비스 바로가기](https://www.nowdoboss.com/)
 
@@ -47,7 +45,7 @@ Nuxt.js
 
 [맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
 
-### Toy Projects
+### Toy Projects 🗂️
 
 [pixi.js 게임](https://pixi-game-five.vercel.app/)
 
