@@ -51,6 +51,8 @@ Nuxt.js
 
 [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/)
 
+[마음 정원 (꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
+
 <!--
 
 THREE.js [seongho-world.vercel.app](https://seongho-world.vercel.app/)
