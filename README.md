@@ -53,6 +53,8 @@ Nuxt.js
 
 [마음 정원 (꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
 
+[Three.js 레이싱 게임](https://view-racer.seonghoho.com/)
+
 <!--
 
 THREE.js [seongho-world.vercel.app](https://seongho-world.vercel.app/)
