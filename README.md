@@ -10,7 +10,27 @@
 
 플랜티엠 Frontend Developer (2026.03 ~ )
 <br/>
-<br/>
+
+
+### Projects 🌱
+
+[상권 추천 프로젝트](https://github.com/8llow8llowMe/NowDoBoss)
+
+[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
+
+[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
+
+### Toy Projects 🗂️
+
+[pixi.js 게임](https://pixi-game-five.vercel.app/)
+
+<!-- [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/) -->
+
+[마음 정원 🌷(꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
+
+[고스트 레이싱 게임 🏎️](https://view-racer.seonghoho.com/)
+
+
 
 ### Tech Stack 🚀
 
@@ -37,23 +57,6 @@ Nuxt.js
 <br/>
 -->
 
-### Projects 🌱
-
-[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)
-
-[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
-
-[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
-
-### Toy Projects 🗂️
-
-[pixi.js 게임](https://pixi-game-five.vercel.app/)
-
-[브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/)
-
-[마음 정원 (꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
-
-[Three.js 레이싱 게임](https://view-racer.seonghoho.com/)
 
 <!--
 
