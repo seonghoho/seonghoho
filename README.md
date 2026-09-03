@@ -22,9 +22,9 @@
 
 ### Toy Projects 🗂️
 
-[pixi.js 게임](https://pixi-game-five.vercel.app/)
+<!-- [pixi.js 게임](https://pixi-game-five.vercel.app/)
 
-<!-- [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/) -->
+ [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/) -->
 
 [마음 정원 🌷(꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
 
