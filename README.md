@@ -26,7 +26,7 @@
 
  [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/) -->
 
-[마음 정원 🌷(꽃 심으면서 릴렉스하세요)](https://mind-garden.seonghoho.com/)
+[마음 정원 🌷](https://mind-garden.seonghoho.com/)
 
 [고스트 레이싱 게임 🏎️](https://view-racer.seonghoho.com/)
 
@@ -39,10 +39,6 @@ FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, **Nuxt.js**, St
 State Management: **React-Query**, Redux-toolkit, **Zustand**, Jotai, **Pinia**
 
 CSS: **TailWind**, **SCSS**, Styled-Components, Emotion
-
-Tools: Teams, Notion, Figma, Discord
-
-ETC: Python, Django, GitLab, Bitbucket
 
 Qualifications: **SQLD**
 <br/>
