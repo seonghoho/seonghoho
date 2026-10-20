@@ -1,105 +1,39 @@
-<!-- <h2>최선을 다하는 Frontend 개발자 최성호 입니다.</h2> -->
-<h2>최성호 - Frontend Developer</h2>
+## 최성호 · Frontend Developer
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:chltjdgh3@naver.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://seonghoho.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%EC%B5%9C-6a9b18312/?isSelfProfile=true)
 
-### Experience 🎓
+기획부터 배포까지 다양하게 도전하는 프론트엔드 개발자입니다.
 
-삼성 청년 SW 아카데미 10기 우수 수료 (2023.07 ~ 2024.06)
+### 💼 Experience
+- **플랜티엠** · Frontend Developer (2026.03 ~ )
+  - 매거진 구독 서비스 개발
+  - Nuxt3 서비스의 Next.js 통합 마이그레이션, SEO·초기 로딩 성능 개선
+- **코드넛** · Frontend Developer (2024.08 ~ 2026.02)
+  - 에듀테크 서비스 프론트엔드 개발
+- **삼성 청년 SW 아카데미 10기** 우수 수료 (2023.07 ~ 2024.06)
 
-에듀테크 스타트업 코드넛 Frontend Developer (2024.08 ~ 2026.02)
+### 🚀 Services — 직접 만들고 운영 중입니다
+| 서비스 | 소개 | 상태 |
+|---|---|---|
+| [한칸](https://hankan.seonghoho.com/) | 손글씨 동그라미로 채우는 습관 체크판 | 🟢 운영 중 🧪 Google Play 테스트 |
+| [다람쥐 퍼즐: 도토리 숨기기](https://dotori.seonghoho.com/) | 손글씨 테마 스타배틀 퍼즐 게임 | 🟢 운영 중 🧪 Google Play 테스트 |
+| [마음 정원 🌷](https://mind-garden.seonghoho.com/) | 꽃 심기 서비스 | 🟢 운영 중 |
+| [고스트 레이싱 🏎️](https://view-racer.seonghoho.com/) | 타임랩스 고스트 레이싱 게임 | 🟢 운영 중 |
 
-플랜티엠 Frontend Developer (2026.03 ~ )
-<br/>
+### 🏆 Team Projects
+| 프로젝트 | 소개 | 역할 · 성과 |
+|---|---|---|
+| [보스픽서울](https://dev.bosspickseoul.com/) | 서울시 상권 분석 서비스 (NowDoBoss 고도화) | FE · 🟢 운영 중 |
+| [혼디가개](https://www.hondigagae.com/) | 날씨·노면 온도로 판단하는 제주 반려견 산책·여행 추천 | FE · 🟢 운영 중 |
+| [NowDoBoss](https://github.com/8llow8llowMe/NowDoBoss) | 상권 추천 서비스 | FE · 자율 프로젝트 우수상 2등 |
+| [Mancity](https://github.com/seonghoho/Mancity) | 풋살 경기 영상 분석 | FE · 특화 프로젝트 우수상 3등 |
+| [Pawsitive](https://github.com/seonghoho/Pawsitive) | 맞춤형 유기견 입양 지원 | FE · 공통 프로젝트 우수상 2등 |
 
-
-### Projects 🌱
-
-[상권 추천 프로젝트](https://github.com/8llow8llowMe/NowDoBoss)
-
-[풋살 경기 영상 분석 프로젝트](https://github.com/seonghoho/Mancity)
-
-[맞춤형 유기견 입양 지원 프로젝트](https://github.com/seonghoho/Pawsitive)
-
-### Toy Projects 🗂️
-
-<!-- [pixi.js 게임](https://pixi-game-five.vercel.app/)
-
- [브라우저 탭으로 키우는 펫](https://tap-pet.seonghoho.com/) -->
-
-[마음 정원 🌷](https://mind-garden.seonghoho.com/)
-
-[고스트 레이싱 게임 🏎️](https://view-racer.seonghoho.com/)
-
-
-
-### Tech Stack 🚀
-
-FrontEnd: **React**, **Next.js 14**, **TypeScript**, **Vue.js**, **Nuxt.js**, StoryBook
-
-State Management: **React-Query**, Redux-toolkit, **Zustand**, Jotai, **Pinia**
-
-CSS: **TailWind**, **SCSS**, Styled-Components, Emotion
-
-Qualifications: **SQLD**
-<br/>
-<br/>
-
-<!--
-### Currently Learning 🔥
-
-Nuxt.js
-
-<br/>
-<br/>
--->
-
-
-<!--
-
-THREE.js [seongho-world.vercel.app](https://seongho-world.vercel.app/)
-
-### 🏅Awards🏅
-
-삼성 청년 SW 아카데미 자율 프로젝트 경진대회 우수상 2등 (2024.06)
-
-삼성 청년 SW 아카데미 특화 프로젝트 경진대회 우수상 3등 (2024.04)
-
-삼성 청년 SW 아카데미 공통 프로젝트 경진대회 우수상 2등 (2024.02) 
-
--->
-
-<!--
-|기간|프로젝트|사용 기술|url|
-|:---:|:---:|:---:|:---:|
-|24.04.08~24.05.20|NowDoBoss|React, TypeScript, Zustand, React-Query, StompJs, SockJs, Styled-Components, FCM, Vite|[상권 추천 서비스 바로가기](https://www.nowdoboss.com/)|
-|24.02.19~24.04.05|Mancity|React, TypeScript, Zustand, React-Query, TailWind, Storybook, Vite|https://github.com/seonghoho/Mancity|
-|24.01.03~24.02.16|Pawsitive|React, TypeScript, Jotai, React-Query, Styled-Components, Vite|https://github.com/seonghoho/Pawsitive|
--->
-
-<!-- 
-<div>
-<h3>📌ETC..📌</h3>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-**seonghoho/seonghoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Main** React · Next.js · TypeScript · Vue · Nuxt  
+**State** React Query · Zustand · Pinia  
+**Style** Tailwind · SCSS  
+**Etc** Capacitor · Storybook · SQLD
 
